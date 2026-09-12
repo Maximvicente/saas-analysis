@@ -18,6 +18,15 @@ L’analyse complète, avec le code, les graphiques, les hypothèses et les limi
 
 `Leexi_SaaS_Analysis_Maxim_Vicente.ipynb`
 
+## Dataset
+
+L’analyse utilise le dataset public Kaggle :
+
+**SaaS Subscription & Churn Analytics Dataset**  
+https://www.kaggle.com/datasets/rivalytics/saas-subscription-and-churn-analytics-dataset
+
+Les fichiers CSV ne sont pas inclus dans ce dépôt.
+
 ## Principales conclusions
 
 - Le MRR augmente fortement sur la période étudiée.
