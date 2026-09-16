@@ -1,10 +1,8 @@
-# leexi-saas-analysis
+#saas-analysis
 
 Technical case – SaaS revenue, churn and product usage analysis.
 
 ## Contexte
-
-Ce projet a été réalisé dans le cadre d’un cas technique pour un stage de Data Analyst chez Leexi.
 
 L’objectif est d’analyser un dataset SaaS afin de mieux comprendre :
 
@@ -16,7 +14,7 @@ L’objectif est d’analyser un dataset SaaS afin de mieux comprendre :
 
 L’analyse complète, avec le code, les graphiques, les hypothèses et les limites, est disponible dans le notebook :
 
-`Leexi_SaaS_Analysis_Maxim_Vicente.ipynb`
+`Analysis_Maxim_Vicente.ipynb`
 
 ## Dataset
 
@@ -60,5 +58,5 @@ Les résultats doivent être interprétés comme des analyses descriptives. Ils 
 
 ## Structure du projet
 
-- `Leexi_SaaS_Analysis_Maxim_Vicente.ipynb` : notebook contenant l’ensemble de l’analyse, les visualisations et les conclusions.
+- `Analysis_Maxim_Vicente.ipynb` : notebook contenant l’ensemble de l’analyse, les visualisations et les conclusions.
 - `README.md` : résumé du projet et des principaux résultats.
